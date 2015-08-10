@@ -46,7 +46,7 @@ html.home{
 #home .hero{
 	width: 100%;
 	height: 446px;
-	background: url(/assets/home/hero.jpg) center center no-repeat;
+	background: url('https://s3-us-west-2.amazonaws.com/zultimate/Z+Emails/prelaunchr/prelaunchr-banner-1-striking.png') center center no-repeat;
 	background-size: 1600px 446px;
 	overflow: hidden;
 	position: relative;
