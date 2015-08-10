@@ -631,7 +631,7 @@ only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
 	#home .hero{
-		background: url(/assets/home/hero@2x.jpg) center center no-repeat;
+		background: url('https://s3-us-west-2.amazonaws.com/zultimate/Z+Emails/prelaunchr/prelaunchr-banner-1-striking.png') center center no-repeat;
 		background-size: 1600px 446px;
 	}
 
