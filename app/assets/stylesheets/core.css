@@ -293,7 +293,7 @@ html.home{
 	line-height: 0;
 	margin-right: 14px;
 	letter-spacing: 1px;
-	background: url(/assets/refer/logo.png) 0 0 no-repeat;
+	background: url('https://s3-us-west-2.amazonaws.com/zultimate/Z+Emails/z-ultimate-self-defense-studios-horz+copy.png') 0 0 no-repeat;
 	background-size: 106px 19px;
 	height: 19px;
 	width: 106px;
@@ -309,7 +309,7 @@ html.home{
 #refer .mammoth{
 	width: 612px;
 	height: 394px;
-	background: url(/assets/refer/mammoth.png) 0 0 no-repeat;
+	background: url('/assets/refer/mammoth.png') 0 0 no-repeat;
 	background-size: 610px 394px;
 	overflow: hidden;
 	margin-top: 15px;
